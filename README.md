@@ -87,8 +87,3 @@ lib/
    # For iOS
    flutter run -d ios
    ```
-
-## 🖥️System Requirements
-  - **OS**: Windows 10/11
-  - **RAM**: 4GB or more
-  - **Storage**: 4GB or more
