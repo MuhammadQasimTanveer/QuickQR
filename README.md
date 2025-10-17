@@ -75,8 +75,8 @@ lib/
    ```
 3. **Run the application**
    
-   Make sure your Android Emulator is running in **Android Studio**, then execute:
    ```bash
+   Make sure your Android Emulator is running in **Android Studio**, then execute:
    # For Android
    flutter run -d emulator-5554
 
