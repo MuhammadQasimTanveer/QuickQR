@@ -94,6 +94,5 @@ lib/
 
 ## 🖥️System Requirements
   - **OS**: Windows 10/11
-  - **RAM**: 4GB+
-  - **Storage**: 4GB+ free space
-  - **Display**: 1024x768 resolution
+  - **RAM**: 4GB or more
+  - **Storage**: 4GB or more free space
