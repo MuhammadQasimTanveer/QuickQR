@@ -60,10 +60,10 @@ lib/
 
 ### 🔧 Prerequisites
 
-- **Flutter SDK**: v3.10 or later  
-- **Dart SDK**: v3.0 or later  
-- **Android Studio / VS Code**  
-- **Emulator or Physical Device**
+  - **Flutter SDK**: v3.10 or later  
+  - **Dart SDK**: v3.0 or later  
+  - **Android Studio / VS Code**  
+  - **Emulator or Physical Device**
 
 ---
 
@@ -79,6 +79,7 @@ lib/
    flutter pub get
    ```
 3. **Run the application**
+   
    Make sure your Android Emulator is running in **Android Studio**, then execute:
    ```bash
    # For Android
