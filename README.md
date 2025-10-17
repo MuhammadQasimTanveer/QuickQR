@@ -13,19 +13,19 @@
 **QuickQR** is a modern Flutter-based QR code generator and scanner application built for Android, iOS, and Web platforms.  
 It allows users to **create, customize, scan, and save QR codes effortlessly** — all with a smooth and responsive interface.
 
-QuickQR is lightweight, offline-capable, and designed for **students, developers, and small businesses** who need an easy-to-use QR solution.
+QuickQR is lightweight and designed for **students, developers, and small businesses** who need an easy-to-use QR solution.
 
 ---
 
 ## ✨ Features
 
-- 🔹 **Generate QR Codes** for text, links, or custom input  
-- 🔹 **Scan QR Codes** in real-time using the camera  
-- 🔹 **Save Generated QR Codes** directly to your device gallery  
-- 🔹 **Offline Functionality** — works without internet  
-- 🔹 **Cross-Platform Support** — Android, iOS, and Web  
-- 🔹 **Minimal & Elegant UI** built with Flutter’s Material & Cupertino design  
-- 🔹 **Optimized Performance** for low-end devices  
+- **Generate QR Codes** for text, links, or custom input  
+- **Scan QR Codes** in real-time using the camera  
+- **Save Generated QR Codes** directly to your device gallery  
+- **Offline Functionality** — works without internet  
+- **Cross-Platform Support** — Android, iOS, and Web  
+- **Minimal & Elegant UI** built with Flutter’s Material & Cupertino design  
+- **Optimized Performance** for low-end devices  
 
 ---
 
@@ -53,7 +53,7 @@ lib/
 │ ├── splash_screen.dart # Splash screen
 │ ├── generateQRpage.dart # QR generation screen
 │ └── scanQRpage.dart # QR scanning screen
-``
+```
 ---
 
 ## 🧩 Getting Started
@@ -91,10 +91,8 @@ lib/
    flutter run -d ios
    ```
 
-## System Requirements
-
-### Minimum Requirements
-- **OS**: Windows 10/11
-- **RAM**: 4GB+
-- **Storage**: 4GB+ free space
-- **Display**: 1024x768 resolution
+## 🖥️System Requirements
+  - **OS**: Windows 10/11
+  - **RAM**: 4GB+
+  - **Storage**: 4GB+ free space
+  - **Display**: 1024x768 resolution
