@@ -18,7 +18,6 @@
    - **Generate QR Codes** for text, links, or custom input  
    - **Scan QR Codes** in real-time using the camera  
    - **Save Generated QR Codes** directly to your device gallery  
-   - **Offline Functionality** — works without internet  
    - **Cross-Platform Support** — Android, iOS, and Web  
    - **Minimal & Elegant UI** built with Flutter’s Material & Cupertino design  
    - **Optimized Performance** for low-end devices  
