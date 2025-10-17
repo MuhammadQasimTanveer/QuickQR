@@ -42,12 +42,12 @@
 ## 📁 Project Structure
 ```bash
 lib/
-├── main.dart # Application entry point
-├── home.dart # Home screen with navigation
+├── main.dart                    # Application entry point
+├── home.dart                    # Home screen with navigation
 ├── screens/
-│ ├── splash_screen.dart # Splash screen
-│ ├── generateQRpage.dart # QR generation screen
-│ └── scanQRpage.dart # QR scanning screen
+│ ├── splash_screen.dart         # Splash screen
+│ ├── generateQRpage.dart        # QR generation screen
+│ └── scanQRpage.dart            # QR scanning screen
 ```
 ---
 
