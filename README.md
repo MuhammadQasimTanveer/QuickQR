@@ -68,3 +68,16 @@ lib/
 ```bash
 git clone https://github.com/MuhammadQasimTanveer/QuickQR.git
 cd QuickQR
+```
+### 2. Install dependencies
+```bash
+flutter pub get
+```
+### 3. Clone the repository
+```bash
+# For Android
+flutter run -d emulator-5554
+
+# For Web
+flutter run -d chrome
+```
