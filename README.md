@@ -49,3 +49,21 @@ lib/
 │   ├── splash_screen.dart       # Splash screen
 │   ├── generateQRpage.dart      # QR generation screen
 │   └── scanQRpage.dart          # QR scanning screen
+
+## 🧩 Getting Started
+
+### 🔧 Prerequisites
+
+- **Flutter SDK**: v3.10 or later  
+- **Dart SDK**: v3.0 or later  
+- **Android Studio / VS Code**  
+- **Emulator or Physical Device**
+
+---
+
+## ⚙️ Installation
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/MuhammadQasimTanveer/QuickQR.git
+cd QuickQR
