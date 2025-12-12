@@ -49,6 +49,7 @@ lib/
 │   ├── splash_screen.dart       # Splash screen
 │   ├── generateQRpage.dart      # QR generation screen
 │   └── scanQRpage.dart          # QR scanning screen
+ ````
 
 ## 🧩 Getting Started
 
