@@ -10,7 +10,7 @@
 
 ## 🧾 Description
 
-**QuickQR** is a modern Flutter-based QR code generator and scanner application built for Android and Web platforms.  
+**QuickQR** is a modern Flutter-based QR code generator and scanner app built for Android and Web platforms.  
 It allows users to **create, customize, scan, and save QR codes effortlessly**, all with a smooth and responsive interface.
 
 ---
